@@ -6,56 +6,53 @@
 }
 
 body{
-    
-    background-image: url(https://i.ibb.co/jbMtZGS/background-image.png);
-    font-family: 'Cinzel', serif;
+    font-family: 'Spectral', serif;
     text-align: center;
-    padding-top: 160px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
+    background-image: url(https://i.ibb.co/V2LsKCM/background-image.jpg);
+    no-repeat center/cover;
+    height: 100vh; 
+    color: #EBF1FB;
+    display: grid;
+    place-content: center;    
 }
+
 
 h1{
-    
-    font-weight: 700;
+    font-family: 'Beth Ellen', cursive;
     font-size: 64px;
-    line-height: 86px;
-    color: #151718;
+    font-weight: 400;
+    line-height: 120px;
 }
 
+
 h1 span{
-    color: #DB2777;
+    color: #5EEAD4;
 }
 
 p{
-    font-family: 'Inter', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    text-align: center;
+    line-height: 30px;
     margin-bottom: 72px;
-    color: #2C2E2F;
 }
 
+
 a{
-    color: #151718;
+    color: #EBF1FB;
     padding: 16px 32px;
-    text-decoration: none;
-    font-weight: 700;
-    font-size: 20px;
+    font-weight: 600;
+    font-size: 24px;
     line-height: 24px;
 }
 
 a:hover,
 .btn-primary{
-    background: #DB2777;
-    border-radius: 80px;
-    color: #FFFFFF;
+    background: #5EEAD4;
+    border-radius: 8px;
+    color: #0B0C0E;
     text-decoration: none;
 }
 
 .btn-primary:hoVer{
-    background: #DB2777;
+    background: #AAEEE4;
 }
