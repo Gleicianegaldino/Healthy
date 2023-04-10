@@ -1,4 +1,4 @@
-# Rocketseat-Desafio02-Landing-Page
+# Landing Page Healthy
 Rocketseat - Stage: Desafio 02 Landing Page
 
 ## Preview
